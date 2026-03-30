@@ -129,4 +129,3 @@ basically if model says diabetic, probably right. if it misses something, that's
 
 ---
 
-Done: March 30, 2026
